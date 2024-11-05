@@ -3,20 +3,20 @@ A simple graphical user interface (GUI) application for converting measurements 
 
 **Features**
 Converts between various units of measurement:
-1-Kilometers (Km) to Miles
-2-Miles to Kilometers (Km)
-3-Kilograms (Kg) to Pounds
-4-Pounds to Kilograms (Kg)
-5-Inches (In) to Centimeters (Cm)
-6-Centimeters (Cm) to Inches (In)
-7-Validates user input to ensure only numbers are accepted.
-8-Displays conversion results directly in the GUI.
-9-Provides error messages for invalid inputs or unsupported conversions.
+1- Kilometers (Km) to Miles
+2- Miles to Kilometers (Km)
+3- Kilograms (Kg) to Pounds
+4- Pounds to Kilograms (Kg)
+5- Inches (In) to Centimeters (Cm)
+6- Centimeters (Cm) to Inches (In)
+7- Validates user input to ensure only numbers are accepted.
+8- Displays conversion results directly in the GUI.
+9- Provides error messages for invalid inputs or unsupported conversions.
 
 **Requirements**
-*Python 3.x
-*Tkinter (typically included with Python)
-*CustomTkinter (to install, use pip):
+* Python 3.x
+* kinter (typically included with Python)
+* CustomTkinter (to install, use pip):
   **pip install customtkinter**
 
 **How to Use**
